@@ -1,5 +1,7 @@
 Lecture notes
 
+handling asynchronous code: Twisted is one of the top libraries for Python, each asynchronous function does not take callbacks as parameters; it just returns a promise (which Twisted calls a “deferred”).
+
 Statically typed: type of variable is known at compile time (Java, C, C++)
 
 Dynamically typed: the type of a variable is interpreted at runtime. This means that
