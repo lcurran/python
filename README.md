@@ -41,11 +41,6 @@
 -   Rarely used for mobile/browser web applications (used for server and desktop platforms).
 -   Dynamically typed nature of the language means it requires more testing and has errors that only show up at runtime.
 
-Statically typed: type of variable is known at compile time (Java, C, C++)
-Dynamically typed: the type of a variable is interpreted at runtime. This means that
-you as a programmer can write a little quicker because you do not have to specify
-type everytime. Example: Perl, Ruby, Python
-
 > "Python has been an important part of Google since the beginning, and remains so as the system grows and evolves. Today dozens of Google engineers use Python, and we're looking for more people with skills in this language."
 > -- Peter Norvig, director of search quality at Google, Inc.
 >
