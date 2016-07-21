@@ -1,5 +1,11 @@
 Lecture notes
 
+Statically typed: type of variable is known at compile time (Java, C, C++)
+
+Dynamically typed: the type of a variable is interpreted at runtime. This means that
+you as a programmer can write a little quicker because you do not have to specify
+type everytime. Example: Perl, Ruby, Python
+
 Python vs ruby
 https://www.upguard.com/articles/python-vs-ruby
 http://dpk.io/pyvsrb
